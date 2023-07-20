@@ -1,7 +1,5 @@
-#Introduction
 This repository presents the research findings and enhancements made to the VGG-16 model, a popular deep learning architecture known for its effectiveness in image classification tasks. The goal of this undergraduate thesis is to propose modifications to the VGG-16 model that aim to improve its performance, accuracy, and computational efficiency.
 
-#Methodology
 The modifications applied to the VGG-16 model are as follows:
 
 Concatenation of Intermediate Layer Outputs:
